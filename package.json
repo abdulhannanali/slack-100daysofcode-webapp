@@ -1,0 +1,27 @@
+{
+  "name": "slack-100daysofcode-webapp",
+  "version": "0.0.1",
+  "description": "Web app for displaying the data I gain from 100daysofcodebot located here on github: https://github.com/abdulhannanali/slack-codenewbies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/slack-100daysofcode-webapp.git"
+  },
+  "keywords": [
+    "webapp",
+    "web",
+    "application",
+    "slack",
+    "100daysofcode",
+    "codebuddies"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/slack-100daysofcode-webapp/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/slack-100daysofcode-webapp#readme"
+}
